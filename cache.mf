@@ -1,0 +1,9 @@
+CACHE MANIFEST
+# Version 0.01
+
+CACHE:
+index.html
+
+css/design.css
+css/invertColors.css
+eggfighter.js
