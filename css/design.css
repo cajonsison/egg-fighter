@@ -12,7 +12,6 @@ body{
   margin: 0; /* Removed margin */
   overflow-y: scroll; /* keep scrollbar */
   text-align: center;
-  font-family: "verdana";
 }
 
 .asciiButton{
