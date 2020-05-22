@@ -5,3 +5,13 @@ body{
   overflow-y: scroll; /* keep scrollbar */
   text-align: center;
 }
+
+.asciiButton{
+  cursor: pointer;
+  user-select: none;
+}
+
+.asciiNinjaButton{
+  user-select: none; /* pointer does not change */
+}
+
