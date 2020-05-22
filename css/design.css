@@ -8,6 +8,7 @@ h1{
   
 menuButton{
   font-family: "raleway";
+  src: url ("../fonts/raleway-regular.ttf");
   font-size: 12px;
   text-align: center;
   text-decoration: none;
