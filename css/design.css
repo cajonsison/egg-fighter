@@ -1,7 +1,7 @@
 h1{
   margin: 0;
   font-family: "raleway";
-  src: url ("../fonts/raleway-regular.ttf") format('truetype');
+  src: url ("../fonts/raleway-regular.ttf");
   font-size: 250px;  
   text-align: center;
 }
